@@ -1,0 +1,2 @@
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.Windows\FaceEmojiX.Windows.csproj;neutral
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX\FaceEmojiX.csproj;neutral

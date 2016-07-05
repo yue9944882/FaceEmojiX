@@ -1,0 +1,11 @@
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.WinPhone\obj\Debug\FaceEmojiX.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.WinPhone\obj\Debug\App.g.i.cs
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.WinPhone\obj\Debug\App.g.cs
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.WinPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.WinPhone\obj\Debug\MainPage.g.cs
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.WinPhone\obj\Debug\App.xaml
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.WinPhone\obj\Debug\MainPage.xaml
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.WinPhone\obj\Debug\App.xbf
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.WinPhone\obj\Debug\MainPage.xbf
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.WinPhone\obj\Debug\XamlSaveStateFile.xml
