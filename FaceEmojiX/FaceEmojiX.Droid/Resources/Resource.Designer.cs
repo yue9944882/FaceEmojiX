@@ -3496,6 +3496,9 @@ namespace FaceEmojiX.Droid
 			// aapt resource value: 0x7f0b003d
 			public const int image = 2131427389;
 			
+			// aapt resource value: 0x7f0b0082
+			public const int imageView = 2131427458;
+			
 			// aapt resource value: 0x7f0b007f
 			public const int info = 2131427455;
 			
@@ -3552,6 +3555,9 @@ namespace FaceEmojiX.Droid
 			
 			// aapt resource value: 0x7f0b0042
 			public const int parentPanel = 2131427394;
+			
+			// aapt resource value: 0x7f0b0081
+			public const int photoButton = 2131427457;
 			
 			// aapt resource value: 0x7f0b0027
 			public const int pin = 2131427367;
@@ -3899,6 +3905,9 @@ namespace FaceEmojiX.Droid
 			
 			// aapt resource value: 0x7f03002f
 			public const int support_simple_spinner_dropdown_item = 2130903087;
+			
+			// aapt resource value: 0x7f030030
+			public const int TakePhoto = 2130903088;
 			
 			static Layout()
 			{

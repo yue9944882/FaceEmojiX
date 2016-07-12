@@ -56,5 +56,6 @@ C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\Fac
 C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.Droid\bin\Debug\ExifLib.dll
 C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.Droid\bin\Debug\Mono.Android.Export.dll.mdb
 C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.Droid\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.Droid\obj\Debug\res\layout\takephoto.xml
 C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.Droid\obj\Debug\FaceEmojiX.Droid.dll.mdb
 C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX.Droid\bin\Debug\FaceEmojiX.Droid.dll.mdb

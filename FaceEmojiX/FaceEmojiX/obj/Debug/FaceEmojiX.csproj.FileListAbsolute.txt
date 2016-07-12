@@ -20,3 +20,9 @@ C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\Fac
 C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX\bin\Debug\FaceEmojiX.dll.mdb
 C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX\obj\Debug\FaceEmojiX.dll.mdb
 C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX\bin\Debug\FaceEmojiX.dll.mdb
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX\obj\Debug\FaceEmojiX.dll.mdb
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX\bin\Debug\FaceEmojiX.dll.mdb
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX\obj\Debug\FaceEmojiX.dll.mdb
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX\bin\Debug\FaceEmojiX.dll.mdb
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX\obj\Debug\FaceEmojiX.dll.mdb
+C:\Users\t-mijin\Documents\Visual Studio 2015\Projects\FaceEmojiX\FaceEmojiX\FaceEmojiX\bin\Debug\FaceEmojiX.dll.mdb

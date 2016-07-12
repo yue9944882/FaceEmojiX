@@ -37,6 +37,9 @@
   <ItemGroup>
     <Compile Include="App.cs" />
     <Compile Include="EntryPage.cs" />
+    <Compile Include="NativeNavigationArgs.cs" />
+    <Compile Include="PageDef.cs" />
+    <Compile Include="PhotoPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

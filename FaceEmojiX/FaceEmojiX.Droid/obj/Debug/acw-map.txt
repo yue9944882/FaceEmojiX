@@ -2,6 +2,10 @@ FaceEmojiX.Droid.MainActivity, FaceEmojiX.Droid;md5e5774544cc004e1cf24e4945cf17d
 FaceEmojiX.Droid.MainActivity, FaceEmojiX.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e5774544cc004e1cf24e4945cf17d413.MainActivity
 FaceEmojiX.Droid.MainActivity;md5e5774544cc004e1cf24e4945cf17d413.MainActivity
 faceemojix.droid.MainActivity;md5e5774544cc004e1cf24e4945cf17d413.MainActivity
+FaceEmojiX.Droid.TakePhotoActivity, FaceEmojiX.Droid;md5e5774544cc004e1cf24e4945cf17d413.TakePhotoActivity
+FaceEmojiX.Droid.TakePhotoActivity, FaceEmojiX.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e5774544cc004e1cf24e4945cf17d413.TakePhotoActivity
+FaceEmojiX.Droid.TakePhotoActivity;md5e5774544cc004e1cf24e4945cf17d413.TakePhotoActivity
+faceemojix.droid.TakePhotoActivity;md5e5774544cc004e1cf24e4945cf17d413.TakePhotoActivity
 Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar+SnackbarActionClickImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar.SnackbarActionClickImplementor;android.support.design.widget.Snackbar_SnackbarActionClickImplementor

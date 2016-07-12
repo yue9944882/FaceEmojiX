@@ -7,12 +7,17 @@ using Xamarin.Forms;
 
 namespace FaceEmojiX
 {
+
     public class App : Application
     {
+
+        public const string NativeNavigationMessage = "FaceEmojiX.NativeNavigationMessage";
+
         public App()
         {
             // The root page of your application
-            MainPage = new EntryPage();
+            MainPage = PageDef.entryPage;
+
         }
 
         protected override void OnStart()
@@ -29,5 +34,7 @@ namespace FaceEmojiX
         {
             // Handle when your app resumes
         }
+
+
     }
 }
