@@ -2315,6 +2315,7 @@ containing a value of this type.
         public static final int clip_vertical=0x7f0b0032;
         public static final int collapseActionView=0x7f0b001d;
         public static final int contentPanel=0x7f0b0046;
+        public static final int continueButton=0x7f0b0083;
         public static final int custom=0x7f0b004a;
         public static final int customPanel=0x7f0b0049;
         public static final int decor_content_parent=0x7f0b0053;
@@ -2339,7 +2340,7 @@ containing a value of this type.
         public static final int icon=0x7f0b0040;
         public static final int ifRoom=0x7f0b001e;
         public static final int image=0x7f0b003d;
-        public static final int imageView=0x7f0b0082;
+        public static final int imageView=0x7f0b0081;
         public static final int info=0x7f0b007f;
         public static final int left=0x7f0b002d;
         public static final int line1=0x7f0b0079;
@@ -2359,7 +2360,7 @@ containing a value of this type.
         public static final int normal=0x7f0b000b;
         public static final int parallax=0x7f0b0026;
         public static final int parentPanel=0x7f0b0042;
-        public static final int photoButton=0x7f0b0081;
+        public static final int photoButton=0x7f0b0082;
         public static final int pin=0x7f0b0027;
         public static final int play_pause=0x7f0b006d;
         public static final int progress_circular=0x7f0b0005;

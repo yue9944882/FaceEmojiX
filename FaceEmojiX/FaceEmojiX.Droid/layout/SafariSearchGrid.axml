@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:columnCount="2"
+            android:rowCount="6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:alignmentMode="alignBounds"
+            >
+
+  <ImageView 
+    android:id="@+id/grid_image"
+    android:layout_column="0"
+    android:layout_row="0"  
+    android:layout_rowSpan="5"
+    android:layout_columnSpan="2"
+    android:scaleType="fitXY"
+  />
+  
+  <Button
+    android:layout_row="5"
+    android:layout_column="0"
+    android:text="GOOD"
+    android:gravity="center_horizontal"
+    />
+
+  <Button
+    android:layout_row="5"
+    android:layout_column="1"
+    android:text="BAD" 
+    android:gravity="center_horizontal"
+    />
+  
+</GridLayout>

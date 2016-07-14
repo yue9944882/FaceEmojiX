@@ -21,36 +21,54 @@ namespace FaceEmojiX
             get { return popupView != null; }
         }
 
-
         public EntryPage()
         {
 
+            this.BackgroundImage = "FaceEmojiX.Images.bg_image310.png";            
+
             //buttonAction = DependencyService.Get<IButtonAction>();
 
-            this.Padding = new Thickness(10, Device.OnPlatform(20, 0, 0), 10, 5);
-            this.BackgroundColor = Color.Blue;
+            var image = new Image
+            {
+                Source = ImageSource.FromResource("FaceEmojiX.Images.bg_image.png")
+            };
 
+            image.Aspect = Aspect.AspectFill;
+            image.Opacity = 0.7;
+
+            this.Padding = new Thickness(10, Device.OnPlatform(20, 0, 0), 10, 5);
 
             // Title defination
             Label faceTitle = new Label
             {
                 Text = "FACE",
-                FontSize = Device.OnPlatform(150, 100, 150),
+                FontSize = Device.OnPlatform(150, 90, 150),
                 FontAttributes = FontAttributes.Bold,
-                TextColor = Color.Yellow,
+                TextColor = Color.Lime,
                 HorizontalTextAlignment = TextAlignment.Start,
-                VerticalTextAlignment = TextAlignment.Center
+                FontFamily = Device.OnPlatform(
+                    iOS: "MarkerFelt-Thin",
+                    Android: "Droid Sans Mono",
+                    WinPhone: "Comic Sans MS"
+                ),
+                VerticalTextAlignment = TextAlignment.Center,
             };
 
             Label emojiTitle = new Label
             {
                 Text = "EMOJI",
-                FontSize = Device.OnPlatform(150, 100, 150),
+                FontSize = Device.OnPlatform(150, 90, 150),
                 FontAttributes = FontAttributes.Bold,
-                TextColor = Color.Yellow,
+                TextColor = Color.Lime,
+                FontFamily = Device.OnPlatform(
+                    iOS: "MarkerFelt-Thin",
+                    Android: "Droid Sans Mono",
+                    WinPhone: "Comic Sans MS"
+                ),
                 HorizontalTextAlignment = TextAlignment.End,
                 VerticalTextAlignment = TextAlignment.Center
             };
+
 
             // Body defination which contains two btns
             this.pickButton = new Button
@@ -73,23 +91,34 @@ namespace FaceEmojiX
 
             RelativeLayout relativeLayout = new RelativeLayout();
 
-            relativeLayout.Children.Add(faceTitle,
+            relativeLayout.Children.Add(image,
                 Constraint.RelativeToParent(
                     (parent) => { return 0; }),
                 Constraint.RelativeToParent(
                     (parent) => { return 0; }),
                 Constraint.RelativeToParent(
                     (parent) => { return parent.Width; }),
+                Constraint.RelativeToParent(
+                    (parent) => { return parent.Height; }));
+
+
+            relativeLayout.Children.Add(faceTitle,
+                Constraint.RelativeToParent(
+                    (parent) => { return parent.Width * 0.1; }),
+                Constraint.RelativeToParent(
+                    (parent) => { return 0; }),
+                Constraint.RelativeToParent(
+                    (parent) => { return parent.Width * 0.8; }),
                 Constraint.RelativeToParent(
                     (parent) => { return parent.Height / 3; }));
 
             relativeLayout.Children.Add(emojiTitle,
                 Constraint.RelativeToParent(
-                    (parent) => { return 0; }),
+                    (parent) => { return parent.Width * 0.1; }),
                 Constraint.RelativeToParent(
                     (parent) => { return parent.Height / 3; }),
                 Constraint.RelativeToParent(
-                    (parent) => { return parent.Width; }),
+                    (parent) => { return parent.Width * 0.8; }),
                 Constraint.RelativeToParent(
                     (parent) => { return parent.Height / 3; }));
 
@@ -101,7 +130,7 @@ namespace FaceEmojiX
                 Constraint.RelativeToParent(
                     (parent) => { return parent.Width * 4 / 8; }),
                 Constraint.RelativeToParent(
-                    (parent) => { return parent.Height / 6; }));
+                    (parent) => { return parent.Height / 7; }));
 
             relativeLayout.Children.Add(safariButton,
                 Constraint.RelativeToParent(
@@ -111,9 +140,9 @@ namespace FaceEmojiX
                 Constraint.RelativeToParent(
                     (parent) => { return parent.Width * 4 / 8; }),
                 Constraint.RelativeToParent(
-                    (parent) => { return parent.Height / 6; }));
+                    (parent) => { return parent.Height / 7; }));
 
-            this.Content = relativeLayout;
+                this.Content = relativeLayout;
 
             // Btn Delegation Initializing
             pickButton.Clicked += OnPickBtnClicked;
